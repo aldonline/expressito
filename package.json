@@ -1,0 +1,20 @@
+{
+  "name": "expressito",
+  "description": "",
+  "version": "0.0.0",
+  "author": "Aldo Bucchi <aldo.bucchi@gmail.com>",
+  "main": "./lib/server",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "browserify": "1.16.2",
+    "jquery-browserify": "1.8.1",
+    "uglify-js": "~2.2.5"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
